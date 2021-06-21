@@ -1,1 +1,2 @@
-처음 git
+처음 commit
+두번쨰 commit
